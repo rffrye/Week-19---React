@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Week-19---React/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Week-19---React/static/js/main.11f7078d.chunk.js",
+    "main.js.map": "/Week-19---React/static/js/main.11f7078d.chunk.js.map",
+    "runtime-main.js": "/Week-19---React/static/js/runtime-main.ed7d897b.js",
+    "runtime-main.js.map": "/Week-19---React/static/js/runtime-main.ed7d897b.js.map",
+    "static/js/2.482a90e6.chunk.js": "/Week-19---React/static/js/2.482a90e6.chunk.js",
+    "static/js/2.482a90e6.chunk.js.map": "/Week-19---React/static/js/2.482a90e6.chunk.js.map",
+    "static/js/3.a257956c.chunk.js": "/Week-19---React/static/js/3.a257956c.chunk.js",
+    "static/js/3.a257956c.chunk.js.map": "/Week-19---React/static/js/3.a257956c.chunk.js.map",
+    "index.html": "/Week-19---React/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Week-19---React/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.482a90e6.chunk.js.LICENSE.txt": "/Week-19---React/static/js/2.482a90e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Week-19---React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed7d897b.js",
+    "static/js/2.482a90e6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.11f7078d.chunk.js"
+  ]
+}
