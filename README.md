@@ -9,4 +9,14 @@ In this app the intention is to be able to sort Employee data by typical data ty
 
 ## Technologies Used 
 
+* React 
+* Random User API
+* Create React App 
+* MDBReact npm package 
+* Axios
+* Github pages 
+
 ## Links 
+
+* [GitHub](https://github.com/rffrye/Week-19---React)
+* [GitHub](https://rffrye.github.io/Week-19---React/)
