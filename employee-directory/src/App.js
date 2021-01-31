@@ -4,10 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Wrapper>
-        <Header />
-        <Main />
-      </Wrapper>
+      <header className="jumotron">
+        Staff Directory
+      </header>
+      <Employee />
     </div>
   );
 }
