@@ -7,6 +7,8 @@ In this app the intention is to be able to sort Employee data by typical data ty
 
 ## Images 
 
+![GitHub Logo](employee-directory/public/imgs/Main.png)
+
 ## Technologies Used 
 
 * React 
