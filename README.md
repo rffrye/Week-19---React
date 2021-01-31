@@ -18,5 +18,5 @@ In this app the intention is to be able to sort Employee data by typical data ty
 
 ## Links 
 
-* [GitHub](https://github.com/rffrye/Week-19---React)
-* [GitHub](https://rffrye.github.io/Week-19---React/)
+* [GitHub Repo](https://github.com/rffrye/Week-19---React)
+* [Deployed APP](https://rffrye.github.io/Week-19---React/)
